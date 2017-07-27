@@ -122,7 +122,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0830;
 				LastUpgradeCheck = 0830;
-				ORGANIZATIONNAME = Cencosud;
+				ORGANIZATIONNAME = Polar;
 				TargetAttributes = {
 					07DAE7D01F2A241400C808B8 = {
 						CreatedOnToolsVersion = 8.3.3;
